@@ -1,0 +1,13 @@
+
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉÖü#8„Ò‚ŞŠ2J$53b51f30-db49-4750-a448-d485584f1231
+K
+java:S3740"/Provide the parametrized type for this generic.(ÉÖü#8é‘ßëŠ2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f8bea149-63e2-4f77-b81e-f8556a0fa534
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$888dc447-ddcc-4bf9-a501-e73509cff8fb
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$10d37689-2893-4482-ae2a-6a10e897bef9
+m	java:S106&"+Replace this use of System.out by a logger.(«‚¥¡8á™àŠ2J$c77d6bad-0fc0-4eb1-86e9-1a9194ec2342
+‚
+java:S1128"`Remove this unused import 'org.springframework.security.authentication.BadCredentialsException'.(Òòîƒÿÿÿÿÿ8ü‘ßëŠ2
